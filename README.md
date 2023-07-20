@@ -1,2 +1,3 @@
-# dice-roller
-a dice roller app on flutter
+# dice_flutter
+
+A new Flutter project.
